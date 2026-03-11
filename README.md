@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://devikadev626.github.io"><img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devika-manikandan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:devikadev626@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
