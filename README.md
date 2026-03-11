@@ -66,17 +66,6 @@
 
 ---
 
-## ✅ Your Action Checklist (Priority Order)
-```
-TODAY (30 mins):
-□ Update Devikadev626/README.md with the profile README above
-□ Pin your best 6 repos on your profile
-
-THIS WEEK (1 hour total):
-□ Add README.md to Churn-Analysis repo
-□ Add README.md to Blinkit-Analytics repo  
-□ Add README.md to NLP-Projects repo
-□ Add screenshots to Power-Bi-projects
 
 NEXT WEEK:
 □ Add README to remaining repos
