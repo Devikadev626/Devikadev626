@@ -61,13 +61,3 @@
 
 ---
 
-<p align="center">⭐ If you find my projects helpful, please star them!</p>
-```
-
----
-
-
-NEXT WEEK:
-□ Add README to remaining repos
-□ Add topics/tags to all repos
-□ Link your portfolio website to GitHub profile
