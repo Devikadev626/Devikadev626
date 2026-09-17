@@ -1,11 +1,11 @@
 <h1 align="center">👩‍💻 Devika M</h1>
 
 <h3 align="center">
-AI & Data Science Technical Professional • AI Engineering • GenAI • MLOps • Technical Trainer
+AI & Data Science Technical Professional • AI Engineering • Generative AI • Agentic AI • MLOps
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Technical+Professional;Building+Practical+AI+%26+Data+Solutions;Generative+AI+%7C+LLMs+%7C+Agentic+AI;Machine+Learning+%7C+MLOps+%7C+AI+Engineering;Technical+Training+%7C+Curriculum+Development;Turning+Concepts+into+Practical+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=950&lines=AI+%26+Data+Science+Technical+Professional;Building+Practical+AI+Applications;Generative+AI+%7C+LLMs+%7C+RAG;AI+Agents+%7C+Agentic+AI+%7C+Multi-Agent+Systems;AI+Engineering+%7C+MLOps+%7C+LLMOps;Technical+Training+%7C+Curriculum+Development" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,19 +16,27 @@ AI & Data Science Technical Professional • AI Engineering • GenAI • MLOps 
 
 ## 🚀 About Me
 
-I am an **AI & Data Science Technical Professional and Trainer** focused on building practical, industry-oriented solutions across **Data Analytics, Machine Learning, Generative AI, AI Engineering, and MLOps**.
+I am an **Territory Technical Head(IT)** focused on building practical solutions across **Data Science, AI Engineering, Generative AI, Agentic AI, and MLOps**.
 
-My work spans the complete journey from **data and machine learning fundamentals to modern AI applications**, including:
+My technical journey has evolved from **Data Analytics and Machine Learning into modern AI application development**, with a focus on understanding how AI systems are designed, integrated, deployed, and applied to real-world problems.
 
-* Data Analysis & Business Intelligence
-* Machine Learning & Deep Learning
-* Natural Language Processing
-* Generative AI & Large Language Models
-* Prompt Engineering
-* AI Engineering
-* AI Agents & Agentic AI
-* MLOps & LLMOps
-* Model Deployment & AI Application Development
+### My current technical focus
+
+- 📊 Data Analytics & Business Intelligence
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Natural Language Processing
+- ✨ Generative AI
+- 🧩 Large Language Models (LLMs)
+- 🔎 RAG & Knowledge-Based AI
+- ⚙️ AI Engineering
+- 🤖 AI Agents & Agentic AI
+- 🔗 Multi-Agent Systems
+- 🚀 AI Application Development
+- 🔧 MLOps & LLMOps
+
+I also work on **technical training, trainer mentoring, curriculum development, hands-on learning resources, and project-based education**.
+
+> **My approach: Learn the fundamentals → Build the application → Understand the architecture → Connect it to real-world problems.**
 
 Alongside technical development, I work on **technical training, trainer mentoring, curriculum development, project-based learning, and student guidance**.
 
@@ -59,6 +67,27 @@ I am particularly interested in bridging the gap between **learning concepts and
 
 ## 🧠 Current Technical Focus
 
+### 🤖 Agentic AI — Current Focus
+
+I am currently extending my AI Engineering work toward **Agentic AI systems** that move beyond simple prompt-response applications toward systems capable of planning, reasoning, using tools, maintaining context, and executing multi-step tasks.
+
+### Exploring
+
+- AI Agents
+- Agentic AI Architecture
+- Planning & Reasoning
+- ReAct
+- Tool-Using Agents
+- Function / Tool Calling
+- Agent Memory
+- Single-Agent Systems
+- Multi-Agent Systems
+- Agent Collaboration & Delegation
+- Feedback Loops
+- Failure Recovery
+- Guardrails
+- Human-in-the-Loop
+- Agentic Workflows
 ### 🤖 AI & Generative AI
 
 * Generative AI
@@ -212,6 +241,25 @@ I am particularly interested in bridging the gap between **learning concepts and
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
 </p>
+
+---
+## 🌟 AI Engineering Projects
+
+My AI Engineering portfolio focuses on building practical applications using
+LLMs, APIs, Hugging Face models, RAG, and modern AI application patterns.
+
+| # | Project | Focus |
+|---|---|---|
+| 01 | [AI Joke Generator](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/01_AI_Joke_Generator) | Generative AI Application |
+| 02 | [AI Email Generator](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/02_AI_Email_Generator) | LLM-based Content Generation |
+| 03 | [AI Document Summarizer](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/03_AI_Document_Summarizer) | Document Intelligence |
+| 04 | [Enterprise Multi-LLM Playground](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/04_Enterprise_Multi_LLM_Playground) | Multi-LLM Application |
+| 05 | [AI API Integration Assistant](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/05_AI_API_Integration_Assistant) | AI API Integration |
+| 06 | [Hugging Face Sentiment Analyzer](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/06_HuggingFace_Sentiment_Analyzer) | NLP & Hugging Face |
+| 07 | [Hugging Face TranscribeAI](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/07_HuggingFace_TranscribeAI) | Speech AI & Whisper |
+| 08 | [Terminal AI Assistant](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/08_Terminal-AI-Assistant) | LLM Application |
+| 09 | [AI Code Reviewer](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/09_AI_Code_Reviewer) | LLM-based Code Analysis |
+| 10 | [Markdown RAG](https://github.com/Devikadev626/Data-Science-Mastery/tree/main/12_AI_Engineering/10_Markdown_RAG) | Retrieval-Augmented Generation |
 
 ---
 
